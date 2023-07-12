@@ -1,3 +1,4 @@
+Welcome aboard to the "git-for-beginners" repository
 hello brow! nothing to see here, aye.
 
 Auth: Ridho Vernanda Padantyo xoxo
